@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+__pycache__/
+# files some notebooks write next to themselves when run
+*.png
+*.mp4
+!figures/*.png

@@ -1,0 +1,13 @@
+# PHYS 0241 Biomedical Imaging notebooks: Python packages needed to run them locally.
+# Python 3.11 or 3.12 recommended.  Install with:  pip install -r requirements.txt
+numpy>=2.0
+scipy>=1.12
+matplotlib>=3.9
+ipympl>=0.9.4
+ipywidgets>=8.1
+scikit-image>=0.24
+plotly>=5.24
+pillow>=10
+imageio>=2.34
+jupyterlab>=4.2
+ipykernel>=6.29
