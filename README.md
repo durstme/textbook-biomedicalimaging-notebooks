@@ -64,6 +64,15 @@ See the "Running the Notebooks" page on the textbook site for more detail.
 | `ch05/ch05-11-1D.ipynb` | Optical Imaging: PSF, OTF, Coherent vs. Incoherent | [Open in Colab](https://colab.research.google.com/github/durstme/textbook-biomedicalimaging-notebooks/blob/main/ch05/ch05-11-1D.ipynb) |
 | `ch05/ch05-11-2D.ipynb` | Optical Imaging: PSF, OTF, Coherent vs. Incoherent | [Open in Colab](https://colab.research.google.com/github/durstme/textbook-biomedicalimaging-notebooks/blob/main/ch05/ch05-11-2D.ipynb) |
 | `ch05/ch05-12.ipynb` | Optical Transfer Function: Modulation | [Open in Colab](https://colab.research.google.com/github/durstme/textbook-biomedicalimaging-notebooks/blob/main/ch05/ch05-12.ipynb) |
+| `ch05/ch05-13.ipynb` | Pupil Function, PSF, and OTF | [Open in Colab](https://colab.research.google.com/github/durstme/textbook-biomedicalimaging-notebooks/blob/main/ch05/ch05-13.ipynb) |
+| `ch05/ch05-14.ipynb` | Convolution of Two Square Pulses | [Open in Colab](https://colab.research.google.com/github/durstme/textbook-biomedicalimaging-notebooks/blob/main/ch05/ch05-14.ipynb) |
+| `ch05/ch05-15.ipynb` | Convolution Theorem: Two Square Pulses | [Open in Colab](https://colab.research.google.com/github/durstme/textbook-biomedicalimaging-notebooks/blob/main/ch05/ch05-15.ipynb) |
+| `ch05/ch05-16.ipynb` | The Finite Cosine: Multiplying in Space | [Open in Colab](https://colab.research.google.com/github/durstme/textbook-biomedicalimaging-notebooks/blob/main/ch05/ch05-16.ipynb) |
+| `ch05/ch05-17.ipynb` | The Point Spread Function | [Open in Colab](https://colab.research.google.com/github/durstme/textbook-biomedicalimaging-notebooks/blob/main/ch05/ch05-17.ipynb) |
+| `ch05/ch05-18.ipynb` | Point Sources, Airy Disks, and Resolution | [Open in Colab](https://colab.research.google.com/github/durstme/textbook-biomedicalimaging-notebooks/blob/main/ch05/ch05-18.ipynb) |
+| `ch05/ch05-19.ipynb` | The OTF Acting on a Real Object | [Open in Colab](https://colab.research.google.com/github/durstme/textbook-biomedicalimaging-notebooks/blob/main/ch05/ch05-19.ipynb) |
+| `ch05/ch05-20.ipynb` | The Real Double Slit | [Open in Colab](https://colab.research.google.com/github/durstme/textbook-biomedicalimaging-notebooks/blob/main/ch05/ch05-20.ipynb) |
+| `ch05/ch05-21.ipynb` | Correlation | [Open in Colab](https://colab.research.google.com/github/durstme/textbook-biomedicalimaging-notebooks/blob/main/ch05/ch05-21.ipynb) |
 | `ch08/ch08-01.ipynb` | X-ray projection -- Parallel and Radial | [Open in Colab](https://colab.research.google.com/github/durstme/textbook-biomedicalimaging-notebooks/blob/main/ch08/ch08-01.ipynb) |
 | `ch08/ch08-02.ipynb` | X-Ray Projections -- Exact | [Open in Colab](https://colab.research.google.com/github/durstme/textbook-biomedicalimaging-notebooks/blob/main/ch08/ch08-02.ipynb) |
 | `ch08/ch08-03.ipynb` | X-Ray Projections | [Open in Colab](https://colab.research.google.com/github/durstme/textbook-biomedicalimaging-notebooks/blob/main/ch08/ch08-03.ipynb) |
